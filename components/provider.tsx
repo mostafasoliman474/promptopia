@@ -6,6 +6,6 @@ const provider = ({children}:{children:React.ReactNode},session:null) => {
           {children}
     </SessionProvider>
   )
-}
+} 
 
 export default provider
